@@ -9,9 +9,9 @@ I'm Mike, a software developer focussing on C# and Xamarin.Forms.
 
 ## 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [DevContainer CLI](https://mikegrant.org.uk/2023/10/06/til-devcontainer-cli.html)
 - [Disabling sleep mode on Fire TV](https://mikegrant.org.uk/2023/08/02/til-disabling-fire-tv-sleep.html)
 - [My Personal Daily Briefing using GPT-3 and Home Assistant](https://mikegrant.org.uk/2023/02/26/ai-personal-assistant.html)
 - [Stay Ahead of Hay Fever with Home Assistant and Public Pollen Data](https://mikegrant.org.uk/2023/02/21/uk-pollen-alerts.html)
 - [Finding Dev Containers With Docker CLI](https://mikegrant.org.uk/2023/02/10/til-finding-dev-containers.html)
-- [Controlling Streaming Services with Alexa - Part 2](https://mikegrant.org.uk/2023/01/31/controlling-streaming-services-with-alexa-2.html)
 <!-- BLOG-POST-LIST:END -->
