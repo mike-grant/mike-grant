@@ -1,17 +1,34 @@
-# Hi there 👋
+# Hey, I'm Mike 👋
 
-I'm Mike, a software developer focussing on C# and Xamarin.Forms.
+UK-based developer building SaaS products and open source tools, mostly AI-powered. I used to write C# and ship Xamarin apps — now I ship Next.js and let agents do the boring parts.
 
-- 💬 I talk a lot about C# and Xamarin.Forms. I might also talk about technologies like Azure Functions. .NET Core, NodeJS, Python in an interview if you get me going!
-- 📕 I have a blog about software development, home automation and side projects [https://mikegrant.org.uk](https://mikegrant.org.uk) 
-- 📫 How to reach me: [@mike_grant_](https://twitter.com/mike_grant_) or [Go Here](https://mikegrant.org.uk/about)
-- ⚡ Fun fact: I :heart: :dog:s
+**TypeScript · Next.js · Python · AI/LLMs · Cloudflare Workers**
 
-## 📕 Latest Blog Posts 
-<!-- BLOG-POST-LIST:START -->
-- [DevContainer CLI](https://mikegrant.org.uk/2023/10/06/til-devcontainer-cli.html)
-- [Disabling sleep mode on Fire TV](https://mikegrant.org.uk/2023/08/02/til-disabling-fire-tv-sleep.html)
-- [My Personal Daily Briefing using GPT-3 and Home Assistant](https://mikegrant.org.uk/2023/02/26/ai-personal-assistant.html)
-- [Stay Ahead of Hay Fever with Home Assistant and Public Pollen Data](https://mikegrant.org.uk/2023/02/21/uk-pollen-alerts.html)
-- [Finding Dev Containers With Docker CLI](https://mikegrant.org.uk/2023/02/10/til-finding-dev-containers.html)
-<!-- BLOG-POST-LIST:END -->
+---
+
+## 🚀 What I'm building
+
+**[ReverseHolo](https://reverseholo.app)** — Pokemon TCG collection tracker. Manage your binders, track set completion, and monitor card prices. Three modes: Collector, Trader, Investor.
+
+**[Scrapezy](https://scrapezy.com)** — AI web scraping as a service. Point it at a page, describe what you want, get structured data back. Includes a Chrome extension and an MCP server so your AI assistant can scrape the web directly.
+
+**[UIDirector](https://uidirector.com)** — Turn any website into a `design.json` your AI coding tools can actually use. Works great with Cursor, Windsurf, and Claude Code.
+
+**[Spectrae](https://spectrae.dev)** — Browser as a service. Headless Chrome on demand for scraping, testing, and automation without managing your own infrastructure.
+
+**[claude-code-history](https://github.com/mike-grant/claude-code-history)** — CLI to search your Claude Code conversation history. Fast standalone binary, regex support, date filtering. Install via Homebrew.
+
+```bash
+brew install mike-grant/tap/claude-code-history
+```
+
+---
+
+## 📬 Find me
+
+- Site: [mkegnt.xyz](https://mkegnt.xyz)
+- Twitter/X: [@mike_grant_](https://twitter.com/mike_grant_)
+
+---
+
+*I also have a dog. He's great.* 🐕
